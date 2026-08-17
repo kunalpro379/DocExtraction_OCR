@@ -1,0 +1,16 @@
+# Core dependencies
+torch>=2.0.0
+transformers>=4.30.0
+openai>=1.0.0
+google-generativeai>=0.3.0
+
+# Azure dependencies
+azure-ai-formrecognizer>=3.3.0
+azure-ai-vision-imageanalysis>=0.10.0
+azure-core>=1.28.0
+
+# PDF processing
+PyMuPDF>=1.23.0
+
+# Utilities
+python-dotenv>=1.0.0

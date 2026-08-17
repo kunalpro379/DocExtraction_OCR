@@ -1,0 +1,18 @@
+{
+  "models": {
+    "ocr": "glm",
+    "llm": "openai",
+    "document_intelligence": "azure"
+  },
+  "paths": {
+    "input": "Input",
+    "output": "output",
+    "extracted": "Extracted",
+    "output_raw": "OutputRaw"
+  },
+  "processing": {
+    "batch_size": 10,
+    "timeout": 300,
+    "retry_attempts": 3
+  }
+}

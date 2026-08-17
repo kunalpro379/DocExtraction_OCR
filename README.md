@@ -1,5 +1,5 @@
 # Document Extraction
-### (Qwen Vision 7B, GLM-OCR, Azure document Intelligence, ACI, PaddleOCR, UnlimitedOCR, OpenCV )
+#### (Qwen Vision 7B, GLM-OCR, Azure document Intelligence, ACI, PaddleOCR, UnlimitedOCR, OpenCV )
 
 A clean architecture for document extraction using interchangeable AI models (OCR, LLM, Document Intelligence).
 
